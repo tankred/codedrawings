@@ -1,0 +1,25 @@
+{
+  "name": "codedrawings",
+  "version": "0.1.0",
+  "description": "Drawing with code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankred/codedrawings.git"
+  },
+  "keywords": [
+    "drawing"
+  ],
+  "author": "Tankred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tankred/codedrawings/issues"
+  },
+  "homepage": "https://github.com/tankred/codedrawings#readme",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
